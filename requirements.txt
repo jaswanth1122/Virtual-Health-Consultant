@@ -1,0 +1,10 @@
+flask
+streamlit
+openai
+groq
+speechrecognition
+pyaudio
+beautifulsoup4
+requests
+transformers
+torch
